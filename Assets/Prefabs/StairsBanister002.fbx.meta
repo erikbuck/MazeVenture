@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: fc9c79456b2c14ea191b83c61d1eff5d
+timeCreated: 1459736890
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BalusterNew.022
+    100002: BalusterNew.023
+    100004: BalusterNew.024
+    100006: BalusterNew.030
+    100008: BalusterNew.031
+    100010: BalusterNew.032
+    100012: BalusterNew.034
+    100014: BalusterNew.035
+    100016: NewelBottom.002
+    100018: NewelCenter.004
+    100020: NewelTop.004
+    100022: RailBottom.005
+    100024: RailTop.005
+    100026: //RootNode
+    400000: BalusterNew.022
+    400002: BalusterNew.023
+    400004: BalusterNew.024
+    400006: BalusterNew.030
+    400008: BalusterNew.031
+    400010: BalusterNew.032
+    400012: BalusterNew.034
+    400014: BalusterNew.035
+    400016: NewelBottom.002
+    400018: NewelCenter.004
+    400020: NewelTop.004
+    400022: RailBottom.005
+    400024: RailTop.005
+    400026: //RootNode
+    2300000: BalusterNew.022
+    2300002: BalusterNew.023
+    2300004: BalusterNew.024
+    2300006: BalusterNew.030
+    2300008: BalusterNew.031
+    2300010: BalusterNew.032
+    2300012: BalusterNew.034
+    2300014: BalusterNew.035
+    2300016: NewelBottom.002
+    2300018: NewelCenter.004
+    2300020: NewelTop.004
+    2300022: RailBottom.005
+    2300024: RailTop.005
+    3300000: BalusterNew.022
+    3300002: BalusterNew.023
+    3300004: BalusterNew.024
+    3300006: BalusterNew.030
+    3300008: BalusterNew.031
+    3300010: BalusterNew.032
+    3300012: BalusterNew.034
+    3300014: BalusterNew.035
+    3300016: NewelBottom.002
+    3300018: NewelCenter.004
+    3300020: NewelTop.004
+    3300022: RailBottom.005
+    3300024: RailTop.005
+    4300000: BalusterNew.035
+    4300002: NewelBottom.002
+    4300004: NewelCenter.004
+    4300006: NewelTop.004
+    4300008: RailBottom.005
+    4300010: RailTop.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

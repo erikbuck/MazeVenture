@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 319414218551b334dbe554f474f48357
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: RigArmLeft1
+    100002: RigArmLeft2
+    100004: RigArmLeft3
+    100006: RigArmLeftCollarbone
+    100008: RigArmLeftFing11
+    100010: RigArmLeftFing12
+    100012: RigArmLeftFing13
+    100014: RigArmLeftFing21
+    100016: RigArmLeftFing22
+    100018: RigArmLeftFing23
+    100020: RigArmLeftFing31
+    100022: RigArmLeftFing32
+    100024: RigArmLeftFing33
+    100026: RigArmLeftFing41
+    100028: RigArmLeftFing42
+    100030: RigArmLeftFing43
+    100032: RigArmRight1
+    100034: RigArmRight2
+    100036: RigArmRight3
+    100038: RigArmRightCollarbone
+    100040: RigArmRightFing11
+    100042: RigArmRightFing12
+    100044: RigArmRightFing13
+    100046: RigArmRightFing21
+    100048: RigArmRightFing22
+    100050: RigArmRightFing23
+    100052: RigArmRightFing31
+    100054: RigArmRightFing32
+    100056: RigArmRightFing33
+    100058: RigArmRightFing41
+    100060: RigArmRightFing42
+    100062: RigArmRightFing43
+    100064: RigAss
+    100066: RigHead
+    100068: RigLegLeft1
+    100070: RigLegLeft2
+    100072: RigLegLeft3
+    100074: RigLegRight1
+    100076: RigLegRight2
+    100078: RigLegRight3
+    100080: RigNeck
+    100082: RigSpine1
+    100084: RigSpine2
+    100086: RigSpine3
+    100088: //RootNode
+    100090: Rig
+    400000: RigArmLeft1
+    400002: RigArmLeft2
+    400004: RigArmLeft3
+    400006: RigArmLeftCollarbone
+    400008: RigArmLeftFing11
+    400010: RigArmLeftFing12
+    400012: RigArmLeftFing13
+    400014: RigArmLeftFing21
+    400016: RigArmLeftFing22
+    400018: RigArmLeftFing23
+    400020: RigArmLeftFing31
+    400022: RigArmLeftFing32
+    400024: RigArmLeftFing33
+    400026: RigArmLeftFing41
+    400028: RigArmLeftFing42
+    400030: RigArmLeftFing43
+    400032: RigArmRight1
+    400034: RigArmRight2
+    400036: RigArmRight3
+    400038: RigArmRightCollarbone
+    400040: RigArmRightFing11
+    400042: RigArmRightFing12
+    400044: RigArmRightFing13
+    400046: RigArmRightFing21
+    400048: RigArmRightFing22
+    400050: RigArmRightFing23
+    400052: RigArmRightFing31
+    400054: RigArmRightFing32
+    400056: RigArmRightFing33
+    400058: RigArmRightFing41
+    400060: RigArmRightFing42
+    400062: RigArmRightFing43
+    400064: RigAss
+    400066: RigHead
+    400068: RigLegLeft1
+    400070: RigLegLeft2
+    400072: RigLegLeft3
+    400074: RigLegRight1
+    400076: RigLegRight2
+    400078: RigLegRight3
+    400080: RigNeck
+    400082: RigSpine1
+    400084: RigSpine2
+    400086: RigSpine3
+    400088: //RootNode
+    400090: Rig
+    7400000: Sneak
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sneak
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: RigAss
+        weight: 1
+      - path: RigAss/RigLegLeft1
+        weight: 1
+      - path: RigAss/RigLegLeft1/RigLegLeft2
+        weight: 1
+      - path: RigAss/RigLegLeft1/RigLegLeft2/RigLegLeft3
+        weight: 1
+      - path: RigAss/RigLegRight1
+        weight: 1
+      - path: RigAss/RigLegRight1/RigLegRight2
+        weight: 1
+      - path: RigAss/RigLegRight1/RigLegRight2/RigLegRight3
+        weight: 1
+      - path: RigAss/RigSpine1
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing11
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing11/RigArmLeftFing12
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing11/RigArmLeftFing12/RigArmLeftFing13
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing21
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing21/RigArmLeftFing22
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing21/RigArmLeftFing22/RigArmLeftFing23
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing31
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing31/RigArmLeftFing32
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing31/RigArmLeftFing32/RigArmLeftFing33
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing41
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing41/RigArmLeftFing42
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing41/RigArmLeftFing42/RigArmLeftFing43
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing11
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing11/RigArmRightFing12
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing11/RigArmRightFing12/RigArmRightFing13
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing21
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing21/RigArmRightFing22
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing21/RigArmRightFing22/RigArmRightFing23
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing31
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing31/RigArmRightFing32
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing31/RigArmRightFing32/RigArmRightFing33
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing41
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing41/RigArmRightFing42
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing41/RigArmRightFing42/RigArmRightFing43
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigNeck
+        weight: 1
+      - path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigNeck/RigHead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: RigAss
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 44a7cf9af2fa0c1488fc4106b715c6f5,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
