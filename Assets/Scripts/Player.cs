@@ -95,7 +95,7 @@ public class Player : MonoBehaviour
 
 	void Awake ()
 	{ 
-		model = transform.FindChild (modelName).gameObject;
+		model = transform.Find (modelName).gameObject;
 		actions = model.GetComponent<Actions> ();
 		targetPosition = transform.position;
 		player_rigidbody = GetComponent<Rigidbody> ();
